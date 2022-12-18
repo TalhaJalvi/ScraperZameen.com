@@ -1,0 +1,2 @@
+Zameen.com properties Scraping. Zameen.com is Pakistan’s biggest e-marketplace for land. Program Scrape the Name, Description, Property Type, Price, City, Area Digit, Area Type, Purpose, Estate, Mobile Number, Phone Number, Agent Name and store it in CSV file and one text is use that take the link of a one page and in one page there is 30 or more properties. 
+Built with Python, BeautifulSoup and Selenium by Abdullah Khan.
